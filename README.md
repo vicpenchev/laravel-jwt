@@ -47,3 +47,6 @@ php artisan migrate
 ```
 $ php artisan serve
 ```
+
+## Test
+You can test this application with [Postman](https://www.getpostman.com/). Link to Postman collection [here](https://documenter.getpostman.com/view/175725/RzZFBw55)
